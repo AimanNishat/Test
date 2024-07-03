@@ -30,3 +30,9 @@ Screen1 As screen:
         Y: =428
         ZIndex: =3
 
+    Label2 As label:
+        Text: ="Text"
+        X: =130
+        Y: =268
+        ZIndex: =4
+
